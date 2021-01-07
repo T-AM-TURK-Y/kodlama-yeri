@@ -1,3 +1,4 @@
 new_write {sahip @phenix @kaktüs}
 read {sunucu müq}
- pk!profil_write {profil bağlantılarıma tıklayın}
+pk!profil_write {profil bağlantılarıma tıklayın}
+pk!hesap_makinesi write {open_calculator}
